@@ -1,2 +1,2 @@
-# Data_Science
-Coursera Data Science
+# Programming Assignment 2
+rprog-015
